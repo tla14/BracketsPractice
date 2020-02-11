@@ -9,7 +9,7 @@ h1 {
 img {
     float: left;
     margin-right: 2em;
-
+    border: 1pt solid #707070;
 }
 
 p {
