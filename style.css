@@ -1,7 +1,16 @@
 body {
-    background-color: #00ff00
+    background-color: #00ff00;
 }
 
 h1 {
-    color: #964B00
+    color: #964B00;
+}
+
+img {
+    float: left;
+    margin-right: 2em
+}
+
+p {
+    font-size: 10pt
 }
